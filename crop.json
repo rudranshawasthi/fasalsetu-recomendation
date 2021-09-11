@@ -1,0 +1,1984 @@
+{
+    "success": true,
+    "count": 123,
+    "pagination": {},
+    "data": [
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "6099fa4ccfd6130a42d56682",
+            "crop_name": "Paddy",
+            "__v": 0,
+            "createdAt": "2021-05-11T03:30:16.799Z",
+            "updatedAt": "2021-08-24T11:18:31.196Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "6099fa4dcfd6130a42d567cb",
+            "crop_name": "Okra",
+            "__v": 0,
+            "createdAt": "2021-05-11T03:30:16.821Z",
+            "updatedAt": "2021-08-24T11:18:31.196Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "60fe8be7299e0a2430c443a5",
+            "crop_name": "",
+            "__v": 0,
+            "createdAt": "2021-07-26T10:18:03.166Z",
+            "updatedAt": "2021-08-24T11:18:31.196Z"
+        },
+        {
+            "displayOnApp": true,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "6099fa4ccfd6130a42d565f1",
+            "crop_name": "Wheat",
+            "__v": 0,
+            "createdAt": "2021-05-11T03:30:16.790Z",
+            "updatedAt": "2021-08-24T11:18:31.189Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "6099fa4ccfd6130a42d56601",
+            "crop_name": "Crops",
+            "__v": 1,
+            "createdAt": "2021-05-11T03:30:16.781Z",
+            "updatedAt": "2021-08-24T11:18:31.189Z"
+        },
+        {
+            "displayOnApp": true,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "6099fa4ccfd6130a42d5666a",
+            "crop_name": "Soyabean",
+            "__v": 0,
+            "createdAt": "2021-05-11T03:30:16.799Z",
+            "updatedAt": "2021-08-24T11:18:31.189Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "6099fa4dcfd6130a42d56773",
+            "crop_name": "Sugarcane",
+            "__v": 0,
+            "createdAt": "2021-05-11T03:30:16.812Z",
+            "updatedAt": "2021-08-24T11:18:31.189Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "61234fd14344920ba3b384b4",
+            "crop_name": "Cori",
+            "__v": 0,
+            "createdAt": "2021-08-23T07:35:28.623Z",
+            "updatedAt": "2021-08-24T11:18:31.189Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "61234fd14344920ba3b384b5",
+            "crop_name": "Er",
+            "__v": 0,
+            "createdAt": "2021-08-23T07:35:28.623Z",
+            "updatedAt": "2021-08-24T11:18:31.189Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "60b35d35846a7d4d5d8b6fee",
+            "crop_name": "Vegetable",
+            "__v": 0,
+            "createdAt": "2021-05-30T09:38:50.747Z",
+            "updatedAt": "2021-08-24T11:18:31.184Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "6099fa4dcfd6130a42d567c8",
+            "crop_name": "Cucumber",
+            "__v": 0,
+            "createdAt": "2021-05-11T03:30:16.821Z",
+            "updatedAt": "2021-08-24T11:18:30.319Z"
+        },
+        {
+            "displayOnApp": true,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "6099fa4ccfd6130a42d56616",
+            "crop_name": "Cotton",
+            "__v": 0,
+            "createdAt": "2021-05-11T03:30:16.790Z",
+            "updatedAt": "2021-08-24T11:18:30.312Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "6099fa4ecfd6130a42d56994",
+            "crop_name": "Pea",
+            "__v": 0,
+            "createdAt": "2021-05-11T03:30:17.293Z",
+            "updatedAt": "2021-08-24T11:18:30.312Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "60b35d40846a7d4d5d8b84c6",
+            "crop_name": "Onion",
+            "__v": 0,
+            "createdAt": "2021-05-30T09:38:57.785Z",
+            "updatedAt": "2021-08-24T11:18:30.312Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "60b35d44846a7d4d5d8b8aed",
+            "crop_name": "Pigeon",
+            "__v": 1,
+            "createdAt": "2021-05-30T09:39:00.739Z",
+            "updatedAt": "2021-08-24T11:18:30.312Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "6099fa4dcfd6130a42d56871",
+            "crop_name": "Maize",
+            "__v": 0,
+            "createdAt": "2021-05-11T03:30:17.270Z",
+            "updatedAt": "2021-08-24T11:18:30.252Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "61234bd04344920ba3afe0e5",
+            "crop_name": "Jowar",
+            "__v": 0,
+            "createdAt": "2021-08-23T07:18:23.896Z",
+            "updatedAt": "2021-08-24T11:18:30.252Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "6099fa4ccfd6130a42d56626",
+            "crop_name": "Arhar",
+            "__v": 0,
+            "createdAt": "2021-05-11T03:30:16.790Z",
+            "updatedAt": "2021-08-24T11:18:30.241Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "6099fa4dcfd6130a42d56808",
+            "crop_name": "Groundnut",
+            "__v": 0,
+            "createdAt": "2021-05-11T03:30:17.262Z",
+            "updatedAt": "2021-08-24T11:18:30.241Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "6099fa4dcfd6130a42d5680b",
+            "crop_name": "Tea",
+            "__v": 0,
+            "createdAt": "2021-05-11T03:30:17.262Z",
+            "updatedAt": "2021-08-24T11:18:30.214Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "6099fa4dcfd6130a42d56724",
+            "crop_name": "Grapes",
+            "__v": 0,
+            "createdAt": "2021-05-11T03:30:16.806Z",
+            "updatedAt": "2021-08-24T11:18:30.209Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "6099fa4dcfd6130a42d5672c",
+            "crop_name": "Mango",
+            "__v": 0,
+            "createdAt": "2021-05-11T03:30:16.806Z",
+            "updatedAt": "2021-08-24T11:18:30.209Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "6099fa4dcfd6130a42d5677b",
+            "crop_name": "Potato",
+            "__v": 0,
+            "createdAt": "2021-05-11T03:30:16.812Z",
+            "updatedAt": "2021-08-24T11:18:30.193Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "60b35d35846a7d4d5d8b709a",
+            "crop_name": "Chillies",
+            "__v": 0,
+            "createdAt": "2021-05-30T09:38:51.704Z",
+            "updatedAt": "2021-08-24T11:18:30.182Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "6099fa4dcfd6130a42d5687a",
+            "crop_name": "Crop",
+            "__v": 1,
+            "createdAt": "2021-05-11T03:30:17.270Z",
+            "updatedAt": "2021-08-24T11:18:29.298Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "61234bd04344920ba3afdf51",
+            "crop_name": "St",
+            "__v": 0,
+            "createdAt": "2021-08-23T07:18:23.836Z",
+            "updatedAt": "2021-08-24T11:18:29.298Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "61234bd04344920ba3afdf58",
+            "crop_name": "Ing",
+            "__v": 0,
+            "createdAt": "2021-08-23T07:18:23.836Z",
+            "updatedAt": "2021-08-24T11:18:29.298Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "60b35d36846a7d4d5d8b7268",
+            "crop_name": "Field",
+            "__v": 1,
+            "createdAt": "2021-05-30T09:38:51.733Z",
+            "updatedAt": "2021-08-24T11:18:29.296Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "61234bce4344920ba3afdcb6",
+            "crop_name": "Soyaben",
+            "__v": 0,
+            "createdAt": "2021-08-23T07:18:21.922Z",
+            "updatedAt": "2021-08-24T11:18:29.248Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "6099fa4ccfd6130a42d565c3",
+            "crop_name": "Vegetables",
+            "__v": 0,
+            "createdAt": "2021-05-11T03:30:16.763Z",
+            "updatedAt": "2021-08-24T11:18:29.190Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "60b35d35846a7d4d5d8b7044",
+            "crop_name": "Major",
+            "__v": 1,
+            "createdAt": "2021-05-30T09:38:50.940Z",
+            "updatedAt": "2021-08-24T11:18:29.165Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "6099fa4ccfd6130a42d56690",
+            "crop_name": "Gram",
+            "__v": 1,
+            "createdAt": "2021-05-11T03:30:16.800Z",
+            "updatedAt": "2021-08-24T11:18:28.240Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "6099fa4ccfd6130a42d56694",
+            "crop_name": "Green",
+            "__v": 0,
+            "createdAt": "2021-05-11T03:30:16.800Z",
+            "updatedAt": "2021-08-24T11:18:28.240Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "61234bce4344920ba3afdceb",
+            "crop_name": "Gra",
+            "__v": 0,
+            "createdAt": "2021-08-23T07:18:21.949Z",
+            "updatedAt": "2021-08-24T11:18:28.240Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "60b35d44846a7d4d5d8b8b11",
+            "crop_name": "Red",
+            "__v": 1,
+            "createdAt": "2021-05-30T09:39:00.746Z",
+            "updatedAt": "2021-08-24T10:49:25.490Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "6099fa4ccfd6130a42d565b6",
+            "crop_name": "Fruits",
+            "__v": 0,
+            "createdAt": "2021-05-11T03:30:16.764Z",
+            "updatedAt": "2021-08-24T10:49:24.660Z"
+        },
+        {
+            "displayOnApp": true,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "6099fa4dcfd6130a42d56728",
+            "crop_name": "Chilli",
+            "__v": 0,
+            "createdAt": "2021-05-11T03:30:16.806Z",
+            "updatedAt": "2021-08-24T10:49:24.660Z",
+            "description": "Chilli Crop"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "6099fa4dcfd6130a42d56798",
+            "crop_name": "Apple",
+            "__v": 0,
+            "createdAt": "2021-05-11T03:30:16.819Z",
+            "updatedAt": "2021-08-24T10:49:24.660Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "60b35d3e846a7d4d5d8b812a",
+            "crop_name": "Citrus",
+            "__v": 0,
+            "createdAt": "2021-05-30T09:38:56.761Z",
+            "updatedAt": "2021-08-24T10:49:24.660Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "6099fa4dcfd6130a42d568ba",
+            "crop_name": "Brinjal",
+            "__v": 0,
+            "createdAt": "2021-05-11T03:30:17.274Z",
+            "updatedAt": "2021-08-24T10:49:24.634Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "6099fa4ccfd6130a42d56607",
+            "crop_name": "Soybean",
+            "__v": 0,
+            "createdAt": "2021-05-11T03:30:16.790Z",
+            "updatedAt": "2021-08-24T10:49:24.615Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "6099fa4dcfd6130a42d567a6",
+            "crop_name": "Tomato",
+            "__v": 0,
+            "createdAt": "2021-05-11T03:30:16.819Z",
+            "updatedAt": "2021-08-24T10:49:24.615Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "6099fa4ecfd6130a42d569b6",
+            "crop_name": "Cumin",
+            "__v": 0,
+            "createdAt": "2021-05-11T03:30:17.294Z",
+            "updatedAt": "2021-08-24T10:49:24.594Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "60b35d43846a7d4d5d8b89f0",
+            "crop_name": "Chilly",
+            "__v": 0,
+            "createdAt": "2021-05-30T09:38:59.794Z",
+            "updatedAt": "2021-08-24T10:49:24.578Z"
+        },
+        {
+            "displayOnApp": true,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "60b35d36846a7d4d5d8b735f",
+            "crop_name": "Cabbage",
+            "__v": 0,
+            "createdAt": "2021-05-30T09:38:51.782Z",
+            "updatedAt": "2021-08-24T10:49:24.528Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "60b35d44846a7d4d5d8b8b07",
+            "crop_name": "Chick",
+            "__v": 0,
+            "createdAt": "2021-05-30T09:39:00.746Z",
+            "updatedAt": "2021-08-24T10:49:24.528Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "60b35d44846a7d4d5d8b8b25",
+            "crop_name": "Sugacane",
+            "__v": 0,
+            "createdAt": "2021-05-30T09:39:00.756Z",
+            "updatedAt": "2021-08-24T10:49:24.522Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "61234bd24344920ba3afe53e",
+            "crop_name": "Moong",
+            "__v": 0,
+            "createdAt": "2021-08-23T07:18:24.961Z",
+            "updatedAt": "2021-08-24T10:49:23.588Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "61234bda4344920ba3aff5bb",
+            "crop_name": "Urad",
+            "__v": 0,
+            "createdAt": "2021-08-23T07:18:31.970Z",
+            "updatedAt": "2021-08-24T10:49:23.588Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "6099fa4dcfd6130a42d5673b",
+            "crop_name": "Rice",
+            "__v": 1,
+            "createdAt": "2021-05-11T03:30:16.806Z",
+            "updatedAt": "2021-08-24T10:49:23.549Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "60b35d43846a7d4d5d8b89df",
+            "crop_name": "Peas",
+            "__v": 0,
+            "createdAt": "2021-05-30T09:38:59.794Z",
+            "updatedAt": "2021-08-24T10:49:23.549Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "61234bde4344920ba3afff83",
+            "crop_name": "Tuar",
+            "__v": 0,
+            "createdAt": "2021-08-23T07:18:36.933Z",
+            "updatedAt": "2021-08-24T10:49:23.549Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "61234bd74344920ba3afeed1",
+            "crop_name": "Bhindi",
+            "__v": 0,
+            "createdAt": "2021-08-23T07:18:29.828Z",
+            "updatedAt": "2021-08-24T10:49:20.496Z"
+        },
+        {
+            "displayOnApp": true,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.fasalsetu.com/crops/bf52a8bc-6e4e-4e55-8dfb-83b925844a63.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "60b35d42846a7d4d5d8b8773",
+            "crop_name": "Suagarcane",
+            "__v": 0,
+            "createdAt": "2021-05-30T09:38:58.771Z",
+            "updatedAt": "2021-08-24T10:49:19.553Z",
+            "crop_botanical_name": "Saccharum officinarum",
+            "description": "Sugarcane\n1.\tScientific name: Saccharum Officinarum\n2.\tSoil: loams & clay loams of Gangetic & other alluviums \n3.\tSoil pH: 6.5 to 7.5 (< 6.5 add Lime. > 7.5 add Gypsum)\n4.\tClimate: Tropical & Sub-tropical crop\n5.\tTemperature: - Ideal temperature 28-32 C (above 45C reduce tillering)\n\tGermination stage- 30 to 34°C. \n\tVegetative growth- 20-30°C.\n\tRipening stage- 12-15°C\n6.\tRainfall: 75-120 cm\n7.\tRelative Humidity: 70-85%(growth)& 55-75%(Ripening) is ideal\n8.\tCrop season: Kharif crop\n9.\tSowing season: Pre seasonal: 15 Oct-30 Nov, Adsali: 15 july-15 August, Suru: 15 Dec- 15 \n10.\tSeed rate:  25,000 to 30,000  budded setts per hectares(MP)\n11.\tSett Treatment: 15 minutes in 0.2% Carbendazim (200 g in 100 litre of water) before sowing\n12.\tPreparation of field:- Plough the land 1 or 2 times based on soil type\n13.\tMethod of sowing: Deep furrow, Trench methods, Ring pit method, Paired row method and Furrow method\n14.\tSpacing: 90cm row spacing \n15.\tFertilizer doze: 120:56:56 N: P: K kg/acre\n\t15 Days after planting Urea- 100 Kg, Single super phosphate 172 kg, Muriate of potash- 48 kg\n\t130 Days after planting Urea- 50 Kg, Single super phosphate 75 kg, Muriate of potash- 15 kg\n16\tMacro Nutrient application: Sardar Bio-chemical NPK 20:20:20 @ 1kg/acre or Nagarjuna Peak\n17\tMicro-Nutrients: PI Biovita-X @ 250ml/acre or Quantis -@ 350ml/acre (Syngenta )  or Nutrozen -@ 300ml/acre  (Crystal ) or Agromin Gold -250ml/acre ( Aries) or Aura Xl -250 ml/acre  ( Coromandal A) Or Rubitrol -250gm /acre (Zytex)\n18\tIrrigation: 6-8 irrigations\n19\tWeed management\n\tNarrow leaf: Dhanuka Sempra @ 200 ml/acre or Dhanuka Weedmar Super 2,4-D Amine Salt 58% SL @ 400ml/acre by foliar application\n\tNarrow & Broad leaf: Syngenta Calaris Xtra 27.5SC (Atrazine + Mesotrion)@ 140ml/acre \n20\tCrop Protection\n\tDiseases: Red rot in sugarcane, Rust,. Yellow Leaf Diseases, Sett Rot, Smut \nControl: Sygenta Tespa Propiconazole 13.9% + Difenconazole 13.9% EC@ 200ml/acre by spray or Sygenta Alika Thiamethoxam (12.6%) + Lambdacyhalothrin (9.5%) ZC @ 150ml/acre by spray\n\tPest: Termites, Early shoot borer, Internode borer, Top Borer, Sugarcane Wooly Aphid, White Fly, Mealy bug, White Grub, Ratoon stunting \nControl: Basf Vesticor Chlorantraniliprol 18.5 % SC @150ml/acre\n21\tHarvest: 330 to 360 Days after planting, done by cutting the canes at ground level\n22\tYield: 69.4 t/ha\n"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "6099fa4dcfd6130a42d56887",
+            "crop_name": "Sorghum",
+            "__v": 0,
+            "createdAt": "2021-05-11T03:30:17.270Z",
+            "updatedAt": "2021-08-24T10:49:19.523Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "61234bd34344920ba3afe67d",
+            "crop_name": "Ladyfinger",
+            "__v": 0,
+            "createdAt": "2021-08-23T07:18:26.831Z",
+            "updatedAt": "2021-08-24T10:49:19.493Z"
+        },
+        {
+            "displayOnApp": true,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "60b35d3e846a7d4d5d8b810b",
+            "crop_name": "Corn",
+            "__v": 0,
+            "createdAt": "2021-05-30T09:38:56.754Z",
+            "updatedAt": "2021-08-24T10:49:17.611Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "6099fa4dcfd6130a42d56814",
+            "crop_name": "Banana",
+            "__v": 0,
+            "createdAt": "2021-05-11T03:30:17.262Z",
+            "updatedAt": "2021-08-24T10:49:17.560Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "60b35d3c846a7d4d5d8b7df5",
+            "crop_name": "Nursery",
+            "__v": 0,
+            "createdAt": "2021-05-30T09:38:55.770Z",
+            "updatedAt": "2021-08-24T10:49:15.512Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "60b35d3c846a7d4d5d8b7e02",
+            "crop_name": "Transplanted",
+            "__v": 1,
+            "createdAt": "2021-05-30T09:38:55.770Z",
+            "updatedAt": "2021-08-24T10:49:15.512Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "61234bd54344920ba3afeb01",
+            "crop_name": "22",
+            "__v": 0,
+            "createdAt": "2021-08-23T07:18:27.926Z",
+            "updatedAt": "2021-08-24T10:49:14.573Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "61234bd54344920ba3afeafb",
+            "crop_name": "26",
+            "__v": 0,
+            "createdAt": "2021-08-23T07:18:27.920Z",
+            "updatedAt": "2021-08-24T10:49:14.570Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "611fabac4344920ba3c34a28",
+            "crop_name": "Extra",
+            "__v": 0,
+            "createdAt": "2021-08-20T13:18:20.381Z",
+            "updatedAt": "2021-08-24T10:49:14.569Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "60b35d40846a7d4d5d8b83fe",
+            "crop_name": "Cauliflower",
+            "__v": 0,
+            "createdAt": "2021-05-30T09:38:57.722Z",
+            "updatedAt": "2021-08-24T10:49:13.541Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "61234bd44344920ba3afe8b9",
+            "crop_name": "Capcicum",
+            "__v": 0,
+            "createdAt": "2021-08-23T07:18:26.889Z",
+            "updatedAt": "2021-08-24T10:49:13.541Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "6099fa4dcfd6130a42d56854",
+            "crop_name": "Grape",
+            "__v": 0,
+            "createdAt": "2021-05-11T03:30:17.266Z",
+            "updatedAt": "2021-08-24T10:49:13.532Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "61234bd34344920ba3afe609",
+            "crop_name": "5",
+            "__v": 0,
+            "createdAt": "2021-08-23T07:18:25.938Z",
+            "updatedAt": "2021-08-24T10:49:12.627Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "60b35d38846a7d4d5d8b76ef",
+            "crop_name": "Mustard",
+            "__v": 0,
+            "createdAt": "2021-05-30T09:38:52.815Z",
+            "updatedAt": "2021-08-24T10:49:11.613Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "60b35d3a846a7d4d5d8b7a7a",
+            "crop_name": "Fruit",
+            "__v": 1,
+            "createdAt": "2021-05-30T09:38:53.837Z",
+            "updatedAt": "2021-08-23T07:18:38.891Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "6099fa4ecfd6130a42d569a6",
+            "crop_name": "Cow",
+            "__v": 1,
+            "createdAt": "2021-05-11T03:30:17.293Z",
+            "updatedAt": "2021-08-23T07:18:38.865Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "6114af3fff56da567b2c73ab",
+            "crop_name": "Garpes",
+            "__v": 0,
+            "createdAt": "2021-08-12T05:18:38.184Z",
+            "updatedAt": "2021-08-23T07:18:38.865Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "60b35d44846a7d4d5d8b8b3d",
+            "crop_name": "Bean",
+            "__v": 0,
+            "createdAt": "2021-05-30T09:39:00.763Z",
+            "updatedAt": "2021-08-23T07:18:38.856Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "6114af3fff56da567b2c7374",
+            "crop_name": "Soya",
+            "__v": 0,
+            "createdAt": "2021-08-12T05:18:38.177Z",
+            "updatedAt": "2021-08-23T07:18:38.856Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "6099fa4dcfd6130a42d56813",
+            "crop_name": "Coffee",
+            "__v": 0,
+            "createdAt": "2021-05-11T03:30:17.262Z",
+            "updatedAt": "2021-08-23T07:18:36.911Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "60b35d42846a7d4d5d8b87b3",
+            "crop_name": "Vegitables",
+            "__v": 0,
+            "createdAt": "2021-05-30T09:38:58.783Z",
+            "updatedAt": "2021-08-23T07:18:33.838Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "6120e1214344920ba368779b",
+            "crop_name": "25",
+            "__v": 0,
+            "createdAt": "2021-08-21T11:18:39.295Z",
+            "updatedAt": "2021-08-23T07:18:32.922Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "60b35d3d846a7d4d5d8b7ec9",
+            "crop_name": "Chili",
+            "__v": 0,
+            "createdAt": "2021-05-30T09:38:55.806Z",
+            "updatedAt": "2021-08-23T07:18:28.919Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "60b35d37846a7d4d5d8b7531",
+            "crop_name": "Corainder",
+            "__v": 0,
+            "createdAt": "2021-05-30T09:38:52.724Z",
+            "updatedAt": "2021-08-23T07:18:24.894Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "611fabac4344920ba3c34a2f",
+            "crop_name": "39",
+            "__v": 0,
+            "createdAt": "2021-08-20T13:18:20.381Z",
+            "updatedAt": "2021-08-23T07:18:21.972Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "611fabbc4344920ba3c36dbc",
+            "crop_name": "41",
+            "__v": 0,
+            "createdAt": "2021-08-20T13:18:36.325Z",
+            "updatedAt": "2021-08-23T06:18:36.709Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "6120a8dc4344920ba34a9cef",
+            "crop_name": "40",
+            "__v": 0,
+            "createdAt": "2021-08-21T07:18:36.087Z",
+            "updatedAt": "2021-08-23T06:18:36.690Z"
+        },
+        {
+            "displayOnApp": true,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "60b35d43846a7d4d5d8b89dd",
+            "crop_name": "Tur",
+            "__v": 0,
+            "createdAt": "2021-05-30T09:38:59.794Z",
+            "updatedAt": "2021-08-23T06:18:34.781Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "61209ad74344920ba3430470",
+            "crop_name": "44",
+            "__v": 0,
+            "createdAt": "2021-08-21T06:18:46.335Z",
+            "updatedAt": "2021-08-23T06:18:34.685Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "6099fa4dcfd6130a42d5687b",
+            "crop_name": "Area",
+            "__v": 1,
+            "createdAt": "2021-05-11T03:30:17.270Z",
+            "updatedAt": "2021-08-23T06:18:31.695Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "60b35d40846a7d4d5d8b84b3",
+            "crop_name": "Blackgram",
+            "__v": 0,
+            "createdAt": "2021-05-30T09:38:57.785Z",
+            "updatedAt": "2021-08-23T06:18:30.702Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "60b35d40846a7d4d5d8b83d5",
+            "crop_name": "Flower",
+            "__v": 0,
+            "createdAt": "2021-05-30T09:38:57.706Z",
+            "updatedAt": "2021-08-23T06:18:29.795Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "6114af3aff56da567b2c6817",
+            "crop_name": "Cabbag",
+            "__v": 0,
+            "createdAt": "2021-08-12T05:18:32.163Z",
+            "updatedAt": "2021-08-23T06:18:29.782Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "60b35d3f846a7d4d5d8b8209",
+            "crop_name": "Safflower",
+            "__v": 0,
+            "createdAt": "2021-05-30T09:38:56.782Z",
+            "updatedAt": "2021-08-23T06:18:29.683Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "6099fa4ccfd6130a42d56609",
+            "crop_name": "Groudnut",
+            "__v": 0,
+            "createdAt": "2021-05-11T03:30:16.790Z",
+            "updatedAt": "2021-08-23T06:18:28.799Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "60b35d3c846a7d4d5d8b7d59",
+            "crop_name": "\"",
+            "__v": 0,
+            "createdAt": "2021-05-30T09:38:54.797Z",
+            "updatedAt": "2021-08-23T06:18:28.738Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "6114bd45ff56da567b35d378",
+            "crop_name": "Sorghum\"",
+            "__v": 0,
+            "createdAt": "2021-08-12T06:18:28.595Z",
+            "updatedAt": "2021-08-23T06:18:28.738Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "61209ad34344920ba342f730",
+            "crop_name": "14",
+            "__v": 0,
+            "createdAt": "2021-08-21T06:18:40.340Z",
+            "updatedAt": "2021-08-23T06:18:28.715Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "60b35d3d846a7d4d5d8b7e81",
+            "crop_name": "Aphids",
+            "__v": 0,
+            "createdAt": "2021-05-30T09:38:55.791Z",
+            "updatedAt": "2021-08-23T06:18:28.688Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "60b35d3d846a7d4d5d8b7e85",
+            "crop_name": "Fly",
+            "__v": 0,
+            "createdAt": "2021-05-30T09:38:55.791Z",
+            "updatedAt": "2021-08-23T06:18:28.688Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "60b35d3d846a7d4d5d8b7e8b",
+            "crop_name": "White",
+            "__v": 0,
+            "createdAt": "2021-05-30T09:38:55.791Z",
+            "updatedAt": "2021-08-23T06:18:28.688Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "60b35d3d846a7d4d5d8b7e9e",
+            "crop_name": "Plant",
+            "__v": 0,
+            "createdAt": "2021-05-30T09:38:55.791Z",
+            "updatedAt": "2021-08-23T06:18:28.688Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "60b35d3d846a7d4d5d8b7ea5",
+            "crop_name": "Hopper",
+            "__v": 0,
+            "createdAt": "2021-05-30T09:38:55.791Z",
+            "updatedAt": "2021-08-23T06:18:28.688Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "60b35d3c846a7d4d5d8b7d2b",
+            "crop_name": "Rose",
+            "__v": 0,
+            "createdAt": "2021-05-30T09:38:54.785Z",
+            "updatedAt": "2021-08-23T06:18:26.750Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "60b35d3c846a7d4d5d8b7d7b",
+            "crop_name": "Fields",
+            "__v": 0,
+            "createdAt": "2021-05-30T09:38:55.696Z",
+            "updatedAt": "2021-08-23T06:18:26.747Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "60b35d3c846a7d4d5d8b7d7d",
+            "crop_name": "Open",
+            "__v": 0,
+            "createdAt": "2021-05-30T09:38:55.696Z",
+            "updatedAt": "2021-08-23T06:18:26.747Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "6114bd43ff56da567b35cefd",
+            "crop_name": "Paddy\"",
+            "__v": 0,
+            "createdAt": "2021-08-12T06:18:26.608Z",
+            "updatedAt": "2021-08-23T06:18:26.731Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "60b35d36846a7d4d5d8b737f",
+            "crop_name": "Tobacco",
+            "__v": 0,
+            "createdAt": "2021-05-30T09:38:51.784Z",
+            "updatedAt": "2021-08-23T06:18:25.697Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "60b35d3a846a7d4d5d8b7a5b",
+            "crop_name": "Cereals",
+            "__v": 0,
+            "createdAt": "2021-05-30T09:38:53.837Z",
+            "updatedAt": "2021-08-23T06:18:24.819Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "60b35d39846a7d4d5d8b790e",
+            "crop_name": "Sunflower",
+            "__v": 0,
+            "createdAt": "2021-05-30T09:38:53.742Z",
+            "updatedAt": "2021-08-23T06:18:24.781Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "6099fa4dcfd6130a42d567b1",
+            "crop_name": "Bottlegourds",
+            "__v": 0,
+            "createdAt": "2021-05-11T03:30:16.819Z",
+            "updatedAt": "2021-08-23T06:18:23.730Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "6099fa4dcfd6130a42d567b6",
+            "crop_name": "Cucurbits",
+            "__v": 0,
+            "createdAt": "2021-05-11T03:30:16.819Z",
+            "updatedAt": "2021-08-23T06:18:23.730Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "6099fa4dcfd6130a42d56782",
+            "crop_name": "Papaya",
+            "__v": 0,
+            "createdAt": "2021-05-11T03:30:16.819Z",
+            "updatedAt": "2021-08-23T06:18:23.729Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "6099fa4ccfd6130a42d5668a",
+            "crop_name": "Black",
+            "__v": 0,
+            "createdAt": "2021-05-11T03:30:16.799Z",
+            "updatedAt": "2021-08-23T06:18:22.773Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "60b35d36846a7d4d5d8b73ae",
+            "crop_name": "Grondnut",
+            "__v": 0,
+            "createdAt": "2021-05-30T09:38:51.802Z",
+            "updatedAt": "2021-08-23T06:18:22.736Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "60b35d36846a7d4d5d8b7374",
+            "crop_name": "Potatos",
+            "__v": 0,
+            "createdAt": "2021-05-30T09:38:51.784Z",
+            "updatedAt": "2021-08-23T06:18:22.704Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "6099fa4ccfd6130a42d565d4",
+            "crop_name": "Potatoes",
+            "__v": 0,
+            "createdAt": "2021-05-11T03:30:16.764Z",
+            "updatedAt": "2021-08-23T06:18:21.757Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "6099fa4ccfd6130a42d565d9",
+            "crop_name": "Stone",
+            "__v": 1,
+            "createdAt": "2021-05-11T03:30:16.782Z",
+            "updatedAt": "2021-08-23T06:18:21.757Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "61209ac94344920ba342e294",
+            "crop_name": "35",
+            "__v": 0,
+            "createdAt": "2021-08-21T06:18:32.441Z",
+            "updatedAt": "2021-08-23T06:18:21.694Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "611b2a9a4344920ba356f411",
+            "crop_name": "Vegetablecrops",
+            "__v": 0,
+            "createdAt": "2021-08-17T03:18:33.707Z",
+            "updatedAt": "2021-08-21T01:18:33.987Z"
+        },
+        {
+            "displayOnApp": true,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.fasalsetu.com/crops/f94089ab-74bd-4cab-969d-1f577faf4250.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "60b35d45846a7d4d5d8b8c21",
+            "crop_name": "Cane",
+            "__v": 0,
+            "createdAt": "2021-05-30T09:39:01.704Z",
+            "updatedAt": "2021-08-12T09:18:36.472Z",
+            "description": "Sugarcane\n1.\tScientific name: Saccharum Officinarum\n2.\tSoil: loams & clay loams of Gangetic & other alluviums \n3.\tSoil pH: 6.5 to 7.5 (< 6.5 add Lime. > 7.5 add Gypsum)\n4.\tClimate: Tropical & Sub-tropical crop\n5.\tTemperature: - Ideal temperature 28-32 C (above 45C reduce tillering)\n\tGermination stage- 30 to 34°C. \n\tVegetative growth- 20-30°C.\n\tRipening stage- 12-15°C\n6.\tRainfall: 75-120 cm\n7.\tRelative Humidity: 70-85%(growth)& 55-75%(Ripening) is ideal\n8.\tCrop season: Kharif crop\n9.\tSowing season: Pre seasonal: 15 Oct-30 Nov, Adsali: 15 july-15 August, Suru: 15 Dec- 15 \n10.\tSeed rate:  25,000 to 30,000  budded setts per hectares(MP)\n11.\tSett Treatment: 15 minutes in 0.2% Carbendazim (200 g in 100 litre of water) before sowing\n12.\tPreparation of field:- Plough the land 1 or 2 times based on soil type\n13.\tMethod of sowing: Deep furrow, Trench methods, Ring pit method, Paired row method and Furrow method\n14.\tSpacing: 90cm row spacing \n15.\tFertilizer doze: 120:56:56 N: P: K kg/acre\n\t15 Days after planting Urea- 100 Kg, Single super phosphate 172 kg, Muriate of potash- 48 kg\n\t130 Days after planting Urea- 50 Kg, Single super phosphate 75 kg, Muriate of potash- 15 kg\n16\tMacro Nutrient application: Sardar Bio-chemical NPK 20:20:20 @ 1kg/acre or Nagarjuna Peak\n17\tMicro-Nutrients: PI Biovita-X @ 250ml/acre or Quantis -@ 350ml/acre (Syngenta )  or Nutrozen -@ 300ml/acre  (Crystal ) or Agromin Gold -250ml/acre ( Aries) or Aura Xl -250 ml/acre  ( Coromandal A) Or Rubitrol -250gm /acre (Zytex)\n18\tIrrigation: 6-8 irrigations\n19\tWeed management\n\tNarrow leaf: Dhanuka Sempra @ 200 ml/acre or Dhanuka Weedmar Super 2,4-D Amine Salt 58% SL @ 400ml/acre by foliar application\n\tNarrow & Broad leaf: Syngenta Calaris Xtra 27.5SC (Atrazine + Mesotrion)@ 140ml/acre \n20\tCrop Protection\n\tDiseases: Red rot in sugarcane, Rust,. Yellow Leaf Diseases, Sett Rot, Smut \nControl: Sygenta Tespa Propiconazole 13.9% + Difenconazole 13.9% EC@ 200ml/acre by spray or Sygenta Alika Thiamethoxam (12.6%) + Lambdacyhalothrin (9.5%) ZC @ 150ml/acre by spray\n\tPest: Termites, Early shoot borer, Internode borer, Top Borer, Sugarcane Wooly Aphid, White Fly, Mealy bug, White Grub, Ratoon stunting \nControl: Basf Vesticor Chlorantraniliprol 18.5 % SC @150ml/acre\n21\tHarvest: 330 to 360 Days after planting, done by cutting the canes at ground level\n22\tYield: 69.4 t/ha",
+            "crop_botanical_name": "Saccharum officinarum"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png",
+                "https://cdn.fasalsetu.com/crops/27b608f0-5fb6-4391-b903-36b17d23f817.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "60b35d45846a7d4d5d8b8c22",
+            "crop_name": "Sugar",
+            "__v": 1,
+            "createdAt": "2021-05-30T09:39:01.704Z",
+            "updatedAt": "2021-08-12T09:18:36.472Z"
+        },
+        {
+            "displayOnApp": true,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.fasalsetu.com/crops/08545e88-d40e-4e8a-a656-3e5b4b8ca9b5.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "60b35d3c846a7d4d5d8b7d65",
+            "crop_name": "Paddy",
+            "__v": 0,
+            "createdAt": "2021-05-30T09:38:54.797Z",
+            "updatedAt": "2021-08-12T05:29:42.640Z",
+            "description": "Paddy\n1.\tScientific name: Oryza sativa\n2.\tSoil: loam to sandy loam to clay loam, but clay loam soils with good water retention capacity\n3.\tSoil pH: 5.5\n4.\tClimate: Subtropical type, high temperature, high humidity \n5.\tTemperature: -  25 degree Celsius\n6.\tRainfall: 100 cm\n7.\tCrop season: Kharif season\n8.\tSowing season: Second fortnight of June is the optimum time for realizing higher yields\n9.\tSeed rate:  70-90 kg/ha for drilling and 100-120 kg/ha for broadcasting \n10.\tSeed Treatment: 1) Tricoderma @ 125gm per 25kg seed 2) 75gm thiram or 50gm carbendazim in 8-10lt water to treat 25kg seed\n11.\tPreparation of field:- 2-3 ploughing are required to prepare the soil, leveling should be followed for ensuring adequate crop stand and finally achieving higher yield\n12.\tMethod of sowing: Direct seedling, Transplanting \n13.\tSpacing: 20x15cm or 20x10cm \n14.\tDepth : 3-4cm\n15.\tTransplant 2-3 plant per hill for better yield\n16.\tTime of transplanting: i)Early and medium maturing varieties 3rd week of June to mid of July ii) long duration and dwarf can be transplanted upto last week of July(20-22 days old nursery is consider good for transplanting)\n17.\tFertilizer doze: Farm yard manure @ 10 t/ha or green manure @ 5 t/ha 2-3 weeks in advance, \n\tHigh Yielding Early Maturing NPK @ 120:60:60\n\tHigh Yielding Medium Maturity NPK @ 150:60:60\n\tScented paddy (dwarf) NPK @ 120:60:60\n18.\tSplit fertilizer application: Half the dose of nitrogen and full dose of phosphorus and potash before transplanting & remaining dose of nitrogen should be used in two instalments 1st at the time of tillering and the 2nd at the time of emergence of ears as top dressing\n19.\tIrrigation: Irrigate the crop at tillering , ear emergence, flowering and grain filling stage\n20.\tMajor weeds: dicot and monocot \n\tMajor dicot weeds are: Chenopodium album, Fumaria parviflora, Cirsium arvense, Anagallis arvensis etc\n\tMonocot weeds include: Phalaris minor, Avena fatua (wild oat), Cyperus rotundus, Cynodon dactylon \n21.\tWeed Control\n\tPre-emergence herbicides: Butachlor, Thibencarb, Pretilachlor @ 1.0-1.5 kg/ha and Anilofos @ 0.4 kg/ha \n\tPost-emergence herbicides: Propanil, 2,4-D and MCPA @ 0.5 kg/ha\n22.\tCrop Protection\n\tDiseases: : Sheath blight, Bacterial blight, false smut\n\tPest: Root weevil, leaf roller, husk insect, hispa , bunka insect, stem borer, green, brown , white hoppers, Gandhi bug, and army worm\n23.\tHarvest: 30-35 days after flowering when stalks still remain green to avoid grain shedding\n24.\tHarvest moisture %: Around 20 per cent\n25.\tYield: average yields vary from 4-5 tons/ha during kharif\n26.\tStorage: Store at 10 to 12 % moisture."
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "60b35d3e846a7d4d5d8b810e",
+            "crop_name": "Sorghum",
+            "__v": 0,
+            "createdAt": "2021-05-30T09:38:56.754Z",
+            "updatedAt": "2021-08-12T05:19:21.630Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "60b35d40846a7d4d5d8b83fa",
+            "crop_name": "Cabbage",
+            "__v": 0,
+            "createdAt": "2021-05-30T09:38:57.722Z",
+            "updatedAt": "2021-08-12T05:18:44.144Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "60b35d44846a7d4d5d8b8b3b",
+            "crop_name": "Soyabeen",
+            "__v": 0,
+            "createdAt": "2021-05-30T09:39:00.763Z",
+            "updatedAt": "2021-08-12T05:18:04.177Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": false,
+            "_id": "6099fa4ecfd6130a42d5698e",
+            "crop_name": "Grapes",
+            "__v": 0,
+            "createdAt": "2021-05-11T03:30:17.293Z",
+            "updatedAt": "2021-08-12T05:17:50.140Z"
+        },
+        {
+            "displayOnApp": false,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.pixabay.com/photo/2013/07/13/01/22/vegetables-155616_1280.png"
+            ],
+            "crop_season": "none",
+            "locale": "en",
+            "deleted": true,
+            "_id": "6099fa4ccfd6130a42d565ca",
+            "crop_name": "test",
+            "__v": 1,
+            "createdAt": "2021-05-11T03:30:16.764Z",
+            "updatedAt": "2021-07-26T09:21:12.618Z"
+        },
+        {
+            "displayOnApp": true,
+            "crop_type": "crop",
+            "translatedFrom": null,
+            "crop_images": [
+                "https://cdn.fasalsetu.com/crops/921be4c3-3af3-4034-a97b-c4f902bb8251.png"
+            ],
+            "crop_season": "rabi",
+            "locale": "en",
+            "deleted": false,
+            "_id": "60a77ad7b60cd70009ad6470",
+            "crop_name": "ginger",
+            "crop_botanical_name": "ginger",
+            "description": "medicinal plant",
+            "createdAt": "2021-05-21T09:18:15.190Z",
+            "updatedAt": "2021-05-21T09:18:15.190Z",
+            "__v": 0
+        }
+    ]
+}
